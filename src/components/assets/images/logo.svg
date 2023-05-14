@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="40" viewBox="0 0 102 40">
+  <g id="logo" transform="translate(-80 -30)">
+    <text id="Js_Shop" data-name="Js Shop" transform="translate(100 56)" fill="#e91e9d" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Js Shop</tspan></text>
+    <g id="Rectangle_351" data-name="Rectangle 351" transform="translate(80 30)" fill="none" stroke="#e91e9d" stroke-width="1">
+      <rect width="102" height="40" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="101" height="39" rx="5.5" fill="none"/>
+    </g>
+  </g>
+</svg>

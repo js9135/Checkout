@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="21" viewBox="0 0 60 21">
+  <g id="ind" transform="translate(-80 -476)">
+    <text id="_91" data-name="+91" transform="translate(114 492)" fill="#fff" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">+91</tspan></text>
+    <g id="ind-2" data-name="ind" transform="translate(30 67)">
+      <rect id="Rectangle_352" data-name="Rectangle 352" width="24" height="6" transform="translate(50 411)" fill="#f75b00"/>
+      <rect id="Rectangle_353" data-name="Rectangle 353" width="24" height="6" transform="translate(50 417)" fill="#fff"/>
+      <rect id="Rectangle_354" data-name="Rectangle 354" width="24" height="6" transform="translate(50 423)" fill="#2f0"/>
+    </g>
+  </g>
+</svg>
